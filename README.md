@@ -4,9 +4,9 @@
 
 **current projects**:
 
-- `maple`<br>
-    a minimalistic operating system from scratch<br>
-&nbsp;&nbsp;&nbsp; *developing in c and assembly*
+- `:(`<br>
+    nothing.<br>
+&nbsp;&nbsp;&nbsp; *coding in binary*
 
 **my discord**
 [![Dpc](https://lanyard.cnrad.dev/api/643820158506500106)](https://discord.com/users/643820158506500106)
